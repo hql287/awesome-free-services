@@ -2,7 +2,7 @@
 Awesome free online services for startups and freelancers!
 Every service below offers a free plan option.
 
-Why? 
+Why?
 
 Because [**Save That Money**](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 
@@ -74,7 +74,17 @@ Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault
 - [MailChimp](http://mailchimp.com/)
 - [MailerLite](https://www.mailerlite.com/pricing)
 - [Mailgun](http://www.mailgun.com/)
-- [GetResponse]()
+
+**Continuous Integation**
+- [Drone.io](https://drone.io/pricing)
+- [CodeShip](https://codeship.com)
+- [TravisCI](https://travis-ci.org)
+- [TravisCI](https://travis-ci.com) - Pro with Free Plan
+- [Semaphore](https://semaphoreci.com/pricing)
+- [Shippable](https://app.shippable.com/pricing.html)
+- [Wercker](https://magnum-ci.com/) ![Beta](http://f.cl.ly/items/2t1Q293U0B3J3a2p2L3A/betabadge.png)
+- [Ship.io](https://ship.io/pricing/)
+- [Magnum CI](https://magnum-ci.com/pricing)
 
 **Deployment**
 
