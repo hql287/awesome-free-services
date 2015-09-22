@@ -9,24 +9,6 @@ Because [**Save That Money**](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 [![Save That
 Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault.jpg)](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 
-**Analytic**
-
-- [Sumome](https://sumome.com/)
-- [Intercome](https://www.intercom.io/)
-- [NewRelic](http://newrelic.com/)
-- [MixPanel](https://mixpanel.com/pricing/)
-
-**Code Hosting**
-
-- [BitBucket](https://bitbucket.org)
-- [GitHub](https://github.com/)
-
-**Project Management**
-
-- [Freedcamp](https://freedcamp.com)
-- [Asana](https://asana.com/)
-- [Trello](https://trello.com/)
-- [Bitrix24](https://www.bitrix24.com/)
 
 **Time Management**
 
@@ -34,16 +16,6 @@ Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault
 - [RescueTime](https://www.rescuetime.com)
 - [Toggl](https://www.toggl.com/pricing)
 - [MyHours](http://myhours.com/)
-
-**CRM**
-
-- [HubSpot](https://www.hubspot.com/crm)
-
-**Storage**
-
-- [Dropbox](https://www.dropbox.com)
-- [Box](https://www.box.com/pricing/personal/)
-- [Google Drive](https://drive.google.com)
 
 **FileSharing**
 
@@ -70,10 +42,8 @@ Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault
 - [CopperEggs](http://copperegg.com/)
 - [UptimeRobot](http://uptimerobot.com/)
 - [Monitive](http://monitive.com/)
-
-Beta
-- [RapidSpike](http://www.rapidspike.com/)
-- [Monitority](http://monitority.com/)
+- [RapidSpike](http://www.rapidspike.com/) ![Beta](http://f.cl.ly/items/2t1Q293U0B3J3a2p2L3A/betabadge.png)
+- [Monitority](http://monitority.com/) ![Beta](http://f.cl.ly/items/2t1Q293U0B3J3a2p2L3A/betabadge.png)
 
 **Status Pages**
 
@@ -116,6 +86,35 @@ Beta
 
 - [Buffer](https://buffer.com)
 - [HootSuite](https://hootsuite.com)
+
+**Storage**
+
+- [Dropbox](https://www.dropbox.com)
+- [Box](https://www.box.com/pricing/personal/)
+- [Google Drive](https://drive.google.com)
+
+**Analytic**
+
+- [Sumome](https://sumome.com/)
+- [Intercome](https://www.intercom.io/)
+- [NewRelic](http://newrelic.com/)
+- [MixPanel](https://mixpanel.com/pricing/)
+
+**CRM**
+
+- [HubSpot](https://www.hubspot.com/crm)
+
+**Code Hosting**
+
+- [BitBucket](https://bitbucket.org)
+- [GitHub](https://github.com/)
+
+**Project Management**
+
+- [Freedcamp](https://freedcamp.com)
+- [Asana](https://asana.com/)
+- [Trello](https://trello.com/)
+- [Bitrix24](https://www.bitrix24.com/)
 
 **Web Hosting**
 
