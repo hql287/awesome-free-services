@@ -108,6 +108,7 @@ Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault
 
 - [BitBucket](https://bitbucket.org)
 - [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
 
 **Project Management**
 
