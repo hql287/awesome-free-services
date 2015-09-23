@@ -9,6 +9,16 @@ Because [**Save That Money**](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 [![Save That
 Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault.jpg)](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 
+**Stock Photography**
+
+- [Unsplash.It](https://unsplash.it/) - My Favourite (APIs Available)
+- [Pexel](https://www.pexels.com/)
+- [I Am Creator](http://www.imcreator.com/free)
+- [Public Domain Archive](http://publicdomainarchive.com/)
+- [Super Famous](http://images.superfamous.com/)
+- [ISO Republic](http://isorepublic.com/)
+- [Magdeleine](http://magdeleine.co/)
+- [RaumRot](http://raumrot.com/)
 
 **Time Management**
 
@@ -26,9 +36,14 @@ Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault
 - [CloudApp](https://getcloudapp.com/)
 - [Droplr](https://droplr.com)
 
-**Support & Service Desk**
+**Service Desk**
 
+- [SpiceWorks](http://www.spiceworks.com/)
 - [HelpScout](http://www.helpscout.net/)
+- [Groove](https://www.groovehq.com)
+
+**Chat Support**
+
 - [Tawk](https://www.tawk.to/)
 - [Olark](https://www.olark.com/price)
 - [Zopim](https://www.zopim.com)
