@@ -1,13 +1,8 @@
-# SaveThatMoney
+# Awesome Free Services
 Awesome free online services for startups and freelancers!
 Every service below offers a free plan option.
 
-Why?
-
-Because [**Save That Money**](https://www.youtube.com/watch?v=yvHYWD29ZNY)
-
-[![Save That
-Money](http://a1.web.wt-cdn.com/post_items/images/000/033/555/original/hqdefault.jpg)](https://www.youtube.com/watch?v=yvHYWD29ZNY)
+Why? Because [**Save That Money**](https://www.youtube.com/watch?v=yvHYWD29ZNY)
 
 **Stock Photography**
 
