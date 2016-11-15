@@ -117,9 +117,9 @@
 - [TravisCI](https://travis-ci.com) - Pro with Free Plan
 - [Semaphore](https://semaphoreci.com/pricing)
 - [Shippable](https://app.shippable.com/pricing.html)
-- [Wercker](https://magnum-ci.com/) ![Beta](http://f.cl.ly/items/2t1Q293U0B3J3a2p2L3A/betabadge.png)
+- [Wercker](http://www.wercker.com/pricing) 
 - [Ship.io](https://ship.io/pricing/)
-- [Magnum CI](https://magnum-ci.com/pricing)
+- [Magnum CI](https://magnum-ci.com/pricing) ![Beta](http://f.cl.ly/items/2t1Q293U0B3J3a2p2L3A/betabadge.png)
 
 ## 🎉 Deployment
 
