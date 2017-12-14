@@ -109,6 +109,7 @@
 - [MailChimp](http://mailchimp.com/)
 - [MailerLite](https://www.mailerlite.com/pricing)
 - [Mailgun](http://www.mailgun.com/)
+- [Mailjet](https://www.mailjet.com/)
 
 ## 🔄 Continuous Integation
 - [Drone.io](https://drone.io/pricing)
