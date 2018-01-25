@@ -25,6 +25,7 @@
 - [Code Hosting](#-code-hosting)
 - [Project Management](#-project-management)
 - [Web Hosting](#-web-hosting)
+- [Invoice](#invoice)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -170,6 +171,10 @@
 - [Heroku](https://www.heroku.com/)
 - [Github Pages](https://pages.github.com/)
 - [Neocities](https://neocities.org/)
+
+## :page_facing_up: Invoice
+- [Manta](https://manta.life/)
+- [Billdogg](https://billdogg.com/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
