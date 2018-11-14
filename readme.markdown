@@ -99,6 +99,7 @@
 - [FormSite](https://www.formsite.com)
 - [JotForm](http://www.jotform.com)
 - [SurveyMoney](https://www.surveymonkey.com/)
+- [Insight Stash](https://insightstash.com/)
 
 ## 📬 Email Hosting
 
