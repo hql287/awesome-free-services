@@ -164,6 +164,8 @@
 - [Asana](https://asana.com/)
 - [Trello](https://trello.com/)
 - [Bitrix24](https://www.bitrix24.com/)
+- [Taiga](https://taiga.io/)
+- [MeisterTask](https://www.meistertask.com/)
 
 ## 🌐 Web Hosting
 
