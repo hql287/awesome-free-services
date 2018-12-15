@@ -129,6 +129,8 @@
 - [DeployBot](http://deploybot.com/)
 - [DeployHQ](https://www.deployhq.com)
 - [Beanstalk](http://beanstalkapp.com)
+- [Netlify](https://www.netlify.com/)
+- [Now — Global Serverless Deployments](https://now.sh)
 
 ## 👍 Social Media Managements
 
