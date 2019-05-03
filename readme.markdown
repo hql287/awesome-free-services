@@ -166,6 +166,7 @@
 - [Bitrix24](https://www.bitrix24.com/)
 - [Taiga](https://taiga.io/)
 - [MeisterTask](https://www.meistertask.com/)
+- [Taskade](https://www.taskade.com/)
 
 ## 🌐 Web Hosting
 
