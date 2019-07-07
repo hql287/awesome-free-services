@@ -175,6 +175,9 @@
 - [Github Pages](https://pages.github.com/)
 - [Neocities](https://neocities.org/)
 
+## 🔍Dynamic Dns
+- [Duck DNS](https://www.duckdns.org/)
+
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
