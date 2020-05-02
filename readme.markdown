@@ -16,7 +16,7 @@
 - [Form & Survey](#-form--survey)
 - [Email Hosting](#-email-hosting)
 - [Transactional Email & Email Marketing](#-transactional-email--email-marketing)
-- [Continuous Integation](#-continuous-integation)
+- [Continuous Integration](#-continuous-integration)
 - [Deployment](#-deployment)
 - [Social Media Managements](#-social-media-managements)
 - [Storage](#-storage)
@@ -113,7 +113,7 @@
 - [Mailgun](http://www.mailgun.com/)
 - [Mailjet](https://www.mailjet.com/)
 
-## 🔄 Continuous Integation
+## 🔄 Continuous Integration
 - [Drone.io](https://drone.io/pricing)
 - [CodeShip](https://codeship.com)
 - [TravisCI](https://travis-ci.org)
