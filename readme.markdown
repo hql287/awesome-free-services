@@ -179,5 +179,11 @@
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
 
+## IAM (Identity and Access Management)
+- [Auth0](https://auth0.com/)
+- [LoginRadius] (https://www.loginradius.com/)
+- [Okta] (https://www.okta.com/)
+- [Ping Identity] (https://www.pingidentity.com/)
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
