@@ -176,7 +176,7 @@
 - [Neocities](https://neocities.org/)
 
 ## :page_facing_up: Invoice
-- [Manta](https://manta.life/)
+- [Manta](https://getmanta.app/)
 - [Billdogg](https://billdogg.com/)
 
 ## License
