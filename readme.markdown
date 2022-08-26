@@ -171,7 +171,7 @@
 
 - [AmazonWs](https://aws.amazon.com/free/)
 - [OpenShifts](https://www.openshift.com/)
-- [Heroku](https://www.heroku.com/)
+- [~~Heroku~~](https://www.heroku.com/) => Free tier no longer available
 - [Github Pages](https://pages.github.com/)
 - [Neocities](https://neocities.org/)
 
