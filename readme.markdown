@@ -83,6 +83,7 @@
 
 ## 💯 Status Pages
 
+- [API Status Check](https://apistatuscheck.com) - Real-time status monitoring for 250+ popular APIs and services. Free dashboard with uptime history and alerts.
 - [Cachet](https://cachethq.io/)
 - [StatusCast](http://www.statuscast.com/)
 
