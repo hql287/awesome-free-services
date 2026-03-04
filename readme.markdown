@@ -181,3 +181,6 @@
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Freelancer Productivity
+- [ScopeShield](https://scopecreep-app.surge.sh) - Scope creep tracker — log client change requests, generate change orders
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated invoice follow-up so you get paid without awkward manual chasing
