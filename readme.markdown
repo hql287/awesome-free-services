@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [BeginThings](https://beginthings.com) - Free invoice generator and 96+ browser-based productivity tools for freelancers (time tracker, Pomodoro timer, QR code maker, UTM builder, and more). No login required.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
