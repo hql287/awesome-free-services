@@ -143,6 +143,7 @@
 
 ## 📊 Analytic
 
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner for ChatGPT, Perplexity, and Gemini.
 - [Sumome](https://sumome.com/)
 - [Intercome](https://www.intercom.io/)
 - [NewRelic](http://newrelic.com/)
