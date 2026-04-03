@@ -175,6 +175,10 @@
 - [Github Pages](https://pages.github.com/)
 - [Neocities](https://neocities.org/)
 
+## :wrench: Developer Tools
+
+- [ToolPipe](https://toolpipe.dev/) - 220+ free developer utility APIs and tools: JSON formatter, QR code generator, hash, UUID, regex, JWT, DNS, SSL, WHOIS, and more. No signup required.
+
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
