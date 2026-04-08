@@ -151,6 +151,8 @@
 ## 💼 CRM
 
 - [HubSpot](https://www.hubspot.com/crm)
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns, conversations. JSON output.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output.
 
 ## 🔒 Code Hosting
 
