@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [Invoice Chaser](https://ttcd77.github.io/invoice-chaser-templates/) - Free interactive invoice tracker with 5-stage follow-up email system. Open-source HTML, zero dependencies.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
