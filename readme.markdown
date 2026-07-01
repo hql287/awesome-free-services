@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [KMU-Tools](https://andrew2301.github.io/kmu-tools/) - Free calculators for German small business owners (Kleinunternehmer): tax threshold checker, invoice compliance checklist, revenue tracker
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
