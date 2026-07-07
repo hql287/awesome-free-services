@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [Scribo](https://scribo.causaprima.ai/) - Free, conversational EN 16931-compliant e-invoicing (ZUGFeRD, XRechnung, Peppol) via web, API, MCP, and CLI.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
