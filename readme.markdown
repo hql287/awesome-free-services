@@ -179,5 +179,9 @@
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
 
+## 💰 Business Finance Calculators
+
+- [SmartBizCalc](https://smartbizcalc.com/) - 380+ free business calculators for small business owners and freelancers: payroll tax, self-employment tax, startup cost, break-even, S-corp savings, profit margin, 1099 vs W-2, contractor markup, and more.
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
