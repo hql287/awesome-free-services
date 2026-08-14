@@ -69,6 +69,7 @@
 - [Olark](https://www.olark.com/price)
 - [Zopim](https://www.zopim.com)
 - [Tidio](http://www.tidiochat.com)
+- [Knocket](https://knocket.com/) - Free-forever live chat widget + shareable contact page + unified Telegram/email inbox. No seat limits, no ads.
 
 ## 👀 Monitoring
 
