@@ -166,6 +166,7 @@
 - [Bitrix24](https://www.bitrix24.com/)
 - [Taiga](https://taiga.io/)
 - [MeisterTask](https://www.meistertask.com/)
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_free_services&utm_content=project_scoping) - Free, browser-only toolkit for freelancers to define project scope, build quotes, and document change requests without sign-up or uploads.
 
 ## 🌐 Web Hosting
 
