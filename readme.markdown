@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- **[toolkitlabs-invoice](https://github.com/YtinuMoc/toolkitlabs-invoice)** — Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-free-services-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
