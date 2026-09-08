@@ -6,7 +6,7 @@
 **Table of Contents**
 
 - [Stock Photography](#-stock-photography)
-- [Time Management](#-time-management)
+- [Time Management](#-time-management)- [ScopeLock AI](https://ais-pre-4jnyl34caf3cfwxtgefqlp-529379495544.asia-southeast1.run.app) - Free B2B scope-creep detector and UCC § 2-209 change-order generator for freelancers and software agencies.
 - [FileSharing](#-filesharing)
 - [Service Desk](#-service-desk)
 - [Chat Support](#-chat-support)
