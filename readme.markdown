@@ -152,6 +152,10 @@
 
 - [HubSpot](https://www.hubspot.com/crm)
 
+## 🧾 Invoicing & Accounting
+
+- [BusinessOS](https://businessos.biz) - Encrypted, offline-first invoicing and accounting. Voice-to-invoice in 3 seconds, WhatsApp send, 40+ built-in calculators. No signup required for tools. Free during limited early access.
+
 ## 🔒 Code Hosting
 
 - [BitBucket](https://bitbucket.org)
