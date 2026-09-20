@@ -178,6 +178,7 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only invoice, quote, and purchase order tools for freelancers; MIT licensed, no signup.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
