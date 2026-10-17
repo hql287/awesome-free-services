@@ -178,6 +178,8 @@
 ## :page_facing_up: Invoice
 - [Manta](https://manta.life/)
 - [Billdogg](https://billdogg.com/)
+- [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) - Zero-dependency CLI that turns a JSON file into a clean HTML invoice. Free, open-source, no signup.
+- [Freelancer Invoice CLI](https://github.com/kleogeos/freelance-invoice-cli) - Zero-dependency open-source CLI that generates HTML invoices from JSON, free forever (no account/plan needed)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
