@@ -173,6 +173,7 @@
 - [OpenShifts](https://www.openshift.com/)
 - [Heroku](https://www.heroku.com/)
 - [Github Pages](https://pages.github.com/)
+- [Icybiz](https://icybiz.com/) - Visual website builder and hosted publishing; one basic published website remains free.
 - [Neocities](https://neocities.org/)
 
 ## :page_facing_up: Invoice
