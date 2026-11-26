@@ -40,6 +40,7 @@
 - [ISO Republic](http://isorepublic.com/)
 - [Magdeleine](http://magdeleine.co/)
 - [RaumRot](http://raumrot.com/)
+- [CreoArt Photo Editor](https://creoart.app/photo-editor) - Free, ad-free browser-local WebGPU PSD & layer photo editor with zero uploads required.
 
 ## ⏰ Time Management
 
